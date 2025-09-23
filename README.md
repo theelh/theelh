@@ -43,6 +43,9 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 
 ## 🌟 Projects
 
+### [Project Archivist Ai](https://github.com/theelh/archivist-ai)
+Archivist Ai
+
 ### [Project CoffeePlatform](https://github.com/theelh/CoffeePlatform)
 Full stack Laravel CoffeePlatform Community
 
