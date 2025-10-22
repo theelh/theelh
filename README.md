@@ -61,6 +61,8 @@ background remover with python libraries
 ### [Project python_pdf_generator](https://github.com/theelh/python_pdf_generator)
 python pdf generator
 
+##Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/theelh?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 ---
 
 ## 📫 Contact Me
