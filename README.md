@@ -35,11 +35,10 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 ## ⚡ My Stack
 
 ### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theelh&layout=compact&theme=radical)](https://github.com/theelh)
-
-
+![Top Langs](stats/top-langs.svg)
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theelh&show_icons=true&theme=radical)](https://github.com/theelh)
+![GitHub Stats](stats/github-stats.svg)
+
 
 
 
