@@ -45,6 +45,9 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 
 ## 🌟 Projects
 
+### [Project MindTrack Ai](https://github.com/theelh/MindTrackAI)
+MeindTrack Ai
+
 ### [Project Medilens Ai](https://github.com/theelh/MediLensAI)
 Medilens Ai
 
