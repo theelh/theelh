@@ -45,8 +45,14 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 
 ## 🌟 Projects
 
+### [CiviLensAi](https://github.com/theelh/CivicLens)
+CiviLensAi
+
+### [Project Student Management](https://github.com/theelh/student_project)
+Student Management
+
 ### [Project MindTrack Ai](https://github.com/theelh/MindTrackAI)
-MeindTrack Ai
+MindTrack Ai
 
 ### [Project Medilens Ai](https://github.com/theelh/MediLensAI)
 Medilens Ai
