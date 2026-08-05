@@ -45,6 +45,9 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 
 ## 🌟 Projects
 
+### [RealityCheckAI](https://github.com/theelh/RealityCheck_AI)
+RealityCheckAI
+
 ### [CiviLensAi](https://github.com/theelh/CivicLens)
 CiviLensAi
 
