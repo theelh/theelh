@@ -32,14 +32,8 @@ I am a **Full Stack Developer** specializing in **Laravel, React, and Java**. I 
 
 ---
 
-## ⚡ My Stack
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theelh&show_icons=true&theme=radical)
-
-### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theelh)](https://github.com/theelh/github-readme-stats)
-
+## Leetcode
+### ![LeetCode Stats](https://leetcard.jacoblin.cool/theelh?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
 ---
 
@@ -75,8 +69,6 @@ background remover with python libraries
 ### [Project python_pdf_generator](https://github.com/theelh/python_pdf_generator)
 python pdf generator
 
-## Leetcode
-### ![LeetCode Stats](https://leetcard.jacoblin.cool/theelh?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 ---
 
 ## 📫 Contact Me
