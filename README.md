@@ -1,5 +1,8 @@
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-# 👋 Hi, I'm Marwane El Hosni
+<div align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
+<div>
+  # 👋 Hi, I'm Marwane El Hosni
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwaneelhosni/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/theelh)
@@ -87,3 +90,5 @@ python pdf generator
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+</div>
